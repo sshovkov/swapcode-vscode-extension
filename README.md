@@ -4,7 +4,7 @@ The `swaptext` extension allows you to easily rearrange parts of your file by sw
 
 ## Features
 
-Use ctrl+shift+v, or cmd+shift+v on Mac, to swap text selection with clipboard text.
+Use `ctrl+shift+v`, or `cmd+shift+v` on Mac, to swap text selection with clipboard text.
 
 ## Release Notes
 
