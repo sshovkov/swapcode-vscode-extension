@@ -1,10 +1,11 @@
 # `swapText` VSCode Extension
 
-The `swaptext` extension allows you to easily rearrange parts of your file by swapping the text selection in the editor with the text in the clipboard.
+The `Swap Code` extension enables a shortcut to easily swap a text selection with clipboard text, providing a fast and easy way to rearrange code in your file.
 
-## Features
+## Instructions
 
-Use `ctrl+shift+v`, or `cmd+shift+v` on Mac, to swap text selection with clipboard text.
+Use `ctrl+shift+v`, or `cmd+shift+v` on Mac, to swap current text selection with clipboard text.
+Keyboard shortcuts
 
 ## Release Notes
 

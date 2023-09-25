@@ -1,8 +1,27 @@
 {
-  "name": "swaptext",
-  "displayName": "SwapText",
-  "description": "",
-  "version": "0.0.1",
+  "name": "swapcode",
+  "displayName": "Swap Code",
+  "description": "Fast and easy keybinding to swap text",
+  "icon": "assets/swapcode-icon.png",
+  "publisher": "SophiaShovkovy",
+  "version": "1.0.0",
+  "pricing": "Free",
+  "keywords": [
+    "swap",
+    "swap text",
+    "swap code",
+    "rearrange",
+    "organize code",
+    "swap text shortcut"
+  ],
+  "bugs": {
+    "url": "https://github.com/sshovkov/swaptext-vscode-extension/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sshovkov/swaptext-vscode-extension"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
@@ -23,7 +42,7 @@
     "commands": [
       {
         "command": "swaptext.swap",
-        "title": "Swap Text"
+        "title": "Swap Code"
       }
     ]
   },
