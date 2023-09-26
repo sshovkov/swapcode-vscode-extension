@@ -7,7 +7,7 @@ The `Swap Code` extension enables an intuitive keyboard shortcut to swap a text 
 - Select text and copy to clipboard
 - Select different text and swap in clipboard text using the Command Palette or keyboard shortcut
 
-![](https://github.com/sshovkov/swapcode-vscode-extension/blob/main/assets/demo.gif)
+![Swap code](assets/demo.gif)
 
 ### Keyboard Shortcuts
 
@@ -15,4 +15,5 @@ The `Swap Code` extension enables an intuitive keyboard shortcut to swap a text 
 - Windows: `ctrl+shift+v`
 
 ## Release Notes
+
 See changelog.
