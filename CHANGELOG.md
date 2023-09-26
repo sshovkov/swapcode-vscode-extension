@@ -18,3 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.2] - 09-25-2023
 
 - Update icon
+
+## [1.0.3] - 09-25-2023
+
+- Add demo of features
