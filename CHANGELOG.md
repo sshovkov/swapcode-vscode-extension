@@ -22,3 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.3] - 09-25-2023
 
 - Add demo of features
+
+## [1.0.4] - 09-25-2023
+
+- Publish demo
